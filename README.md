@@ -6,8 +6,8 @@
  
  <p>&nbsp;</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Deepak%20Sharma-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/arthian-deepak-sharma/)](https://www.linkedin.com/in/arthian-deepak-sharma/) [![Twitter Badge](http://img.shields.io/badge/-@__deepaksaini__-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/__deepaksaini__)](https://twitter.com/__deepaksaini__) [![GitHub followers](https://img.shields.io/github/followers/Deepak9829?label=Follow&style=social)](https://github.com/Deepak9829/?tab=follow)
-[![Instagram Badge](https://img.shields.io/badge/-deepaksingodiya_-blue?style=social&logo=Instagram&link=https://www.instagram.com/deepaksingodiya_/)](https://www.instagram.com/deepaksingodiya_/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Deepak%20Sharma-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/arthian-deepak-sharma/)](https://www.linkedin.com/in/arthian-deepak-sharma/) [![GitHub followers](https://img.shields.io/github/followers/Deepak9829?label=Follow&style=social)](https://github.com/Deepaksharma2007/?tab=follow)
+[![Instagram Badge](https://img.shields.io/badge/-deepaksharma_-blue?style=social&logo=Instagram&link=https://www.instagram.com/deepaksharma_/)](https://www.instagram.com/deepaksharma_/) 
 
 
 </div>  
